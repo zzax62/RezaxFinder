@@ -1,6 +1,6 @@
 # RezaxFinder
 
-Compagnon de partie pour Windows, version **2.1.0**, **créé par rezaxuhq**.
+Compagnon de partie pour Windows, version **2.1.1**, **créé par rezaxuhq**.
 
 ![RezaxFinder](rezaxfinder-icon.png)
 
@@ -24,7 +24,17 @@ Les préférences, les validations de la session et le compteur des replays sont
 
 Les captures sont analysées localement. L’application ne modifie pas les fichiers du jeu et ne lit pas sa mémoire. Aucune garantie d’indétectabilité n’est fournie. Le fonctionnement des automatismes dépend du jeu, de ses menus et de sa configuration.
 
-Ce dépôt contient les versions distribuées et leur documentation. Le lecteur autonome de replays, adapté du projet de LED-N, est accompagné de ses sources et licences dans l’installation. Données cartographiques : Fortnite.GG et Fortnite-API. Non affilié à Epic Games.
+Ce dépôt contient les versions distribuées et leur documentation. Le lecteur autonome de replays, adapté du projet de LED-N, est accompagné de ses sources et licences dans l’installation. Données cartographiques 43.10 : Burnaviour et Fortnite-API. Non affilié à Epic Games.
+
+## Carte Fortnite 43.10 — version 2.1.1
+
+- Nouveau fond de carte et 16 lieux nommés.
+- 1 029 emplacements possibles : 921 coffres classiques, 39 rares et 69 enterrés.
+- Données Burnaviour du 12 novembre 2026, explicitement associées à Fortnite 43.10.
+- Anciens repères de sprites et altitudes retirés de la carte active faute de données confirmées.
+- Validations réinitialisées au changement de carte ; calibrage, réglages et compteur de replays conservés.
+
+Les circuits, zones et étages enregistrés sur 43.00 restent liés à cette ancienne carte.
 
 ## Nouveautés 2.1
 
