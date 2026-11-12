@@ -1,12 +1,14 @@
 # RezaxFinder
 
-Ton compagnon Fortnite pour Windows, version **3.0.0**, **créé par rezaxuhq**.
+Ton compagnon Fortnite pour Windows, version **3.0.1**, **créé par rezaxuhq**.
 
 ![RezaxFinder](rezaxfinder-icon.png)
 
 [Télécharger la dernière version](https://github.com/zzax62/RezaxFinder/releases/latest)
 
 Installe `RezaxFinder-Setup-x.x.x.exe` une première fois. Les prochaines mises à jour arrivent dans l’application : **Mises à jour → Télécharger → Redémarrer et mettre à jour**.
+
+La version 3.0.1 corrige le défilement des statistiques : tous les résultats et les comparaisons restent accessibles à la molette et au clavier, même dans une petite fenêtre.
 
 ## Ton univers Fortnite
 
