@@ -1,47 +1,41 @@
 # RezaxFinder
 
-Compagnon de partie pour Windows, version **2.1.1**, **créé par rezaxuhq**.
+Ton compagnon Fortnite pour Windows, version **3.0.0**, **créé par rezaxuhq**.
 
 ![RezaxFinder](rezaxfinder-icon.png)
 
 [Télécharger la dernière version](https://github.com/zzax62/RezaxFinder/releases/latest)
 
-Installe `RezaxFinder-Setup-x.x.x.exe` une première fois. Les prochaines mises à jour sont détectées et téléchargées dans l’application. Le bouton **Redémarrer et mettre à jour** les installe quand tu es prêt.
+Installe `RezaxFinder-Setup-x.x.x.exe` une première fois. Les prochaines mises à jour arrivent dans l’application : **Mises à jour → Télécharger → Redémarrer et mettre à jour**.
 
-- Nouvelle interface 2.1 : accueil gaming, cartes arrondies et options personnalisables.
-- Navigation rapide avec **Ctrl+K**, recherche et sélection au clavier.
-- Mini-carte du HUD épurée : uniquement la carte, les coffres et le trajet.
-- Compteur des replays : total, session, dernière partie et trésors, avec profils séparés.
-- Validation manuelle des coffres sur la carte et raccourcis personnalisables.
-- Approche individuelle d’un coffre sélectionné, avec arrêt à proximité.
-- Relance de partie après reconnaissance du bouton Rejouer.
+## Ton univers Fortnite
 
-Choisis ton écran, calibre la mini-carte, puis démarre le suivi. Fortnite doit rester au premier plan. **Échap** arrête l’approche en cours ; **F9** ouvre l’application.
+- **Profil sans mot de passe** : pseudo et plateforme, mémorisés localement. Ce profil ne connecte pas ton compte Epic Games.
+- **Statistiques** : carrière/saison, modes et commandes, victoires, K/D, éliminations, matchs, comparaisons et favoris. Données publiques uniquement.
+- **Boutique** : articles et packs du jour, prix en V-Bucks, recherche et filtres. Consultation uniquement.
+- **Actualités** : Battle Royale, Sauver le monde et Créatif selon les flux disponibles.
+- **Collection** : nouveautés et catalogue des cosmétiques, musiques, instruments, voitures et créations LEGO.
+- **Explorer** : modes de jeu, bannières, couleurs, carte actuelle, codes créateurs et données publiques avancées.
+- **Ctrl+K** : recherche rapide dans les pages de l’application.
 
-Active l’enregistrement des replays dans Fortnite pour le compteur. Les résultats arrivent après chaque partie et restent distincts des emplacements validés sur la carte. Les replays disponibles sont importés sans être modifiés.
+L’accès aux statistiques passe par le [service partagé RezaxFinder](https://rezaxfinder-stats.cleanoak32.chatgpt.site/). Aucune clé privée n’est distribuée dans l’installateur. Les recherches utilisent un quota commun et les résultats peuvent être mis en cache quelques minutes. Un profil Fortnite privé ne peut pas être consulté.
 
-Les préférences, les validations de la session et le compteur des replays sont conservés dans `%LOCALAPPDATA%\RezaxFinder`. La documentation utilisateur complète accompagne l’application.
+## En partie
 
-Les captures sont analysées localement. L’application ne modifie pas les fichiers du jeu et ne lit pas sa mémoire. Aucune garantie d’indétectabilité n’est fournie. Le fonctionnement des automatismes dépend du jeu, de ses menus et de sa configuration.
+La carte 43.10 contient 1 029 emplacements possibles : 921 coffres classiques, 39 rares et 69 enterrés. Le HUD conserve uniquement la carte, les coffres et le trajet.
 
-Ce dépôt contient les versions distribuées et leur documentation. Le lecteur autonome de replays, adapté du projet de LED-N, est accompagné de ses sources et licences dans l’installation. Données cartographiques 43.10 : Burnaviour et Fortnite-API. Non affilié à Epic Games.
+- Circuits favoris et zones de recherche personnalisées.
+- Profils de HUD, zoom automatique facultatif et options visuelles.
+- Compteur de replays : total, session, dernière partie et trésors.
+- Validation manuelle des coffres et raccourcis personnalisables.
+- Approche individuelle d’un coffre et relance après reconnaissance du bouton Rejouer.
 
-## Carte Fortnite 43.10 — version 2.1.1
+Choisis ton écran, calibre la mini-carte, puis démarre le suivi. Fortnite doit rester au premier plan. **Échap** arrête l’approche ; **F9** ouvre l’application.
 
-- Nouveau fond de carte et 16 lieux nommés.
-- 1 029 emplacements possibles : 921 coffres classiques, 39 rares et 69 enterrés.
-- Données Burnaviour du 12 novembre 2026, explicitement associées à Fortnite 43.10.
-- Anciens repères de sprites et altitudes retirés de la carte active faute de données confirmées.
-- Validations réinitialisées au changement de carte ; calibrage, réglages et compteur de replays conservés.
+Active l’enregistrement des replays dans Fortnite pour le compteur. Ses résultats restent distincts des statistiques publiques et des validations sur la carte.
 
-Les circuits, zones et étages enregistrés sur 43.00 restent liés à cette ancienne carte.
+Les réglages, le calibrage et le compteur des replays sont conservés dans `%LOCALAPPDATA%\RezaxFinder`. Le profil d’accueil et les favoris de joueurs sont enregistrés dans le profil local de l’application. Les données en ligne et les images sont chargées à la demande ; aucune capture du suivi n’est envoyée.
 
-## Nouveautés 2.1
+Ce dépôt contient les versions distribuées et leur documentation. Les sources et licences du lecteur autonome de replays adapté du projet de LED-N accompagnent l’installation.
 
-- Accueil gaming avec illustration locale et derniers résultats.
-- Circuits favoris et zone de recherche personnalisée.
-- Profils de HUD, zoom automatique facultatif et symboles de coffres.
-- Objectif de session fondé sur les replays.
-- Couleur d’accent et taille des textes réglables.
-
-La mini-carte en jeu conserve uniquement la carte, les coffres et le trajet.
+Données en ligne : Fortnite-API. Emplacements 43.10 : Burnaviour ; fond de carte : Fortnite-API. Non affilié à Epic Games.
