@@ -1,6 +1,6 @@
 # RezaxFinder
 
-Compagnon de partie pour Windows, version **1.7.0**, **créé par rezaxuhq**.
+Compagnon de partie pour Windows, version **2.0.0**, **créé par rezaxuhq**.
 
 ![RezaxFinder](rezaxfinder-icon.png)
 
@@ -8,7 +8,9 @@ Compagnon de partie pour Windows, version **1.7.0**, **créé par rezaxuhq**.
 
 Installe `RezaxFinder-Setup-x.x.x.exe` une première fois. Les prochaines mises à jour sont détectées et téléchargées dans l’application. Le bouton **Redémarrer et mettre à jour** les installe quand tu es prêt.
 
-- Interface sombre animée, carte interactive et HUD personnalisable.
+- Nouvelle interface 2.0 : accueil, navigation lisible, carte et réglages repensés.
+- Navigation rapide avec **Ctrl+K**, recherche et sélection au clavier.
+- Mini-carte du HUD épurée : uniquement la carte, les coffres et le trajet.
 - Compteur des replays : total, session, dernière partie et trésors, avec profils séparés.
 - Validation manuelle des coffres sur la carte et raccourcis personnalisables.
 - Approche individuelle d’un coffre sélectionné, avec arrêt à proximité.
