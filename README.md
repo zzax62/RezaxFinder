@@ -1,6 +1,6 @@
 # RezaxFinder
 
-Ton compagnon Fortnite pour Windows, version **3.0.1**, **créé par rezaxuhq**.
+Ton compagnon Fortnite pour Windows, version **3.0.2**, **créé par rezaxuhq**.
 
 ![RezaxFinder](rezaxfinder-icon.png)
 
@@ -8,7 +8,7 @@ Ton compagnon Fortnite pour Windows, version **3.0.1**, **créé par rezaxuhq**.
 
 Installe `RezaxFinder-Setup-x.x.x.exe` une première fois. Les prochaines mises à jour arrivent dans l’application : **Mises à jour → Télécharger → Redémarrer et mettre à jour**.
 
-La version 3.0.1 corrige le défilement des statistiques : tous les résultats et les comparaisons restent accessibles à la molette et au clavier, même dans une petite fenêtre.
+La version 3.0.2 ajoute les visuels officiels de référence aux modes Recharge, OG, Battle Royale et Zéro construction lorsque leur image est absente. Une autre image disponible prend le relais si le chargement échoue ; les modes sans visuel gardent une présentation compacte. Le correctif de défilement des statistiques de la version 3.0.1 est inclus.
 
 ## Ton univers Fortnite
 
