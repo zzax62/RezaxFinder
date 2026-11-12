@@ -1,6 +1,6 @@
 # RezaxFinder
 
-Ton compagnon Fortnite pour Windows, version **3.1.0**, **créé par rezaxuhq**.
+Ton compagnon Fortnite pour Windows, version **3.2.0**, **créé par rezaxuhq**.
 
 ![RezaxFinder](rezaxfinder-icon.png)
 
@@ -8,7 +8,7 @@ Ton compagnon Fortnite pour Windows, version **3.1.0**, **créé par rezaxuhq**.
 
 Installe `RezaxFinder-Setup-x.x.x.exe` une première fois. Les prochaines mises à jour arrivent dans l’application : **Mises à jour → Télécharger → Redémarrer et mettre à jour**.
 
-La version 3.1.0 ajoute les Treasure Hours avec rappels, l’historique des versions et les détails du compteur de coffres. Les lieux de la carte sont complétés et leurs noms en français peuvent être affichés ou masqués.
+La version 3.2.0 ajoute le classement communautaire des coffres : rejoins avec ton pseudo, retrouve le podium et ta place, puis partage automatiquement tes nouveaux totaux de replays. Les coffres cassés restent inclus une seule fois dans le total.
 
 ## Ton univers Fortnite
 
@@ -21,6 +21,9 @@ La version 3.1.0 ajoute les Treasure Hours avec rappels, l’historique des vers
 - **Ctrl+K** : recherche rapide dans les pages de l’application.
 - **Treasure Hours** : horaires locaux des créneaux confirmés par Epic, annonce officielle et rappel au début ou 5, 15, 30 ou 60 minutes avant. RezaxFinder doit rester ouvert, même réduit ; les notifications Windows dépendent des réglages du système.
 - **Historique** : anciennes versions, nouveautés et corrections, avec sélection d’une version et copie disponible hors connexion.
+- **Classement** : participation facultative depuis le choix du pseudo ou le menu Classement, top 100 et position personnelle. Le pseudo, la plateforme, le total de coffres et le nombre de parties comptées deviennent publics. Les fichiers de replay restent sur ton PC. Quitter retire le profil public ; hors ligne, le partage s’arrête immédiatement et le retrait est réessayé au retour de la connexion.
+
+Le classement est communautaire et n’authentifie pas le compte Epic. La participation est liée à cette installation : un autre PC peut créer une autre entrée. Les totaux proviennent du compteur de replays de RezaxFinder, pas des statistiques Fortnite-API. Un changement de profil dans Compteur suspend le partage jusqu’au retour sur le profil associé.
 
 L’accès aux statistiques passe par le [service partagé RezaxFinder](https://rezaxfinder-stats.cleanoak32.chatgpt.site/). Aucune clé privée n’est distribuée dans l’installateur. Les recherches utilisent un quota commun et les résultats peuvent être mis en cache quelques minutes. Un profil Fortnite privé ne peut pas être consulté.
 
