@@ -1,6 +1,6 @@
 # RezaxFinder
 
-Ton compagnon Fortnite pour Windows, version **3.0.2**, **créé par rezaxuhq**.
+Ton compagnon Fortnite pour Windows, version **3.1.0**, **créé par rezaxuhq**.
 
 ![RezaxFinder](rezaxfinder-icon.png)
 
@@ -8,7 +8,7 @@ Ton compagnon Fortnite pour Windows, version **3.0.2**, **créé par rezaxuhq**.
 
 Installe `RezaxFinder-Setup-x.x.x.exe` une première fois. Les prochaines mises à jour arrivent dans l’application : **Mises à jour → Télécharger → Redémarrer et mettre à jour**.
 
-La version 3.0.2 ajoute les visuels officiels de référence aux modes Recharge, OG, Battle Royale et Zéro construction lorsque leur image est absente. Une autre image disponible prend le relais si le chargement échoue ; les modes sans visuel gardent une présentation compacte. Le correctif de défilement des statistiques de la version 3.0.1 est inclus.
+La version 3.1.0 ajoute les Treasure Hours avec rappels, l’historique des versions et les détails du compteur de coffres. Les lieux de la carte sont complétés et leurs noms en français peuvent être affichés ou masqués.
 
 ## Ton univers Fortnite
 
@@ -19,6 +19,8 @@ La version 3.0.2 ajoute les visuels officiels de référence aux modes Recharge,
 - **Collection** : nouveautés et catalogue des cosmétiques, musiques, instruments, voitures et créations LEGO.
 - **Explorer** : modes de jeu, bannières, couleurs, carte actuelle, codes créateurs et données publiques avancées.
 - **Ctrl+K** : recherche rapide dans les pages de l’application.
+- **Treasure Hours** : horaires locaux des créneaux confirmés par Epic, annonce officielle et rappel au début ou 5, 15, 30 ou 60 minutes avant. RezaxFinder doit rester ouvert, même réduit ; les notifications Windows dépendent des réglages du système.
+- **Historique** : anciennes versions, nouveautés et corrections, avec sélection d’une version et copie disponible hors connexion.
 
 L’accès aux statistiques passe par le [service partagé RezaxFinder](https://rezaxfinder-stats.cleanoak32.chatgpt.site/). Aucune clé privée n’est distribuée dans l’installateur. Les recherches utilisent un quota commun et les résultats peuvent être mis en cache quelques minutes. Un profil Fortnite privé ne peut pas être consulté.
 
