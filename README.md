@@ -1,6 +1,6 @@
 # RezaxFinder
 
-Ton compagnon Fortnite pour Windows, version **3.4.1**, **créé par rezaxuhq**.
+Ton compagnon Fortnite pour Windows, version **3.4.2**, **créé par rezaxuhq**.
 
 ![RezaxFinder](rezaxfinder-icon.png)
 
@@ -9,6 +9,8 @@ Ton compagnon Fortnite pour Windows, version **3.4.1**, **créé par rezaxuhq**.
 Installe `RezaxFinder-Setup-x.x.x.exe` une première fois. Les prochaines mises à jour arrivent dans l’application : **Mises à jour → Télécharger → Redémarrer et mettre à jour**.
 
 La version 3.4.0 ajoute **12 thèmes sombres et clairs** et un éditeur pour créer jusqu’à **24 thèmes personnels**. Choisis les couleurs du fond, des panneaux, du menu, des accents et des boutons, avec un aperçu immédiat avant d’enregistrer. Retrouve-les dans **Préférences → Réglages → Affichage**. Le thème Classique garde l’apparence précédente et le menu simplifié reste en place. Les coffres cassés restent inclus une seule fois dans le total.
+
+La version **3.4.2** corrige la carte masquée par les couleurs des thèmes. Tes thèmes personnels sont conservés.
 
 ## Ton univers Fortnite
 
