@@ -1,6 +1,6 @@
 # RezaxFinder
 
-Ton compagnon Fortnite pour Windows, version **3.2.0**, **créé par rezaxuhq**.
+Ton compagnon Fortnite pour Windows, version **3.3.0**, **créé par rezaxuhq**.
 
 ![RezaxFinder](rezaxfinder-icon.png)
 
@@ -8,7 +8,7 @@ Ton compagnon Fortnite pour Windows, version **3.2.0**, **créé par rezaxuhq**.
 
 Installe `RezaxFinder-Setup-x.x.x.exe` une première fois. Les prochaines mises à jour arrivent dans l’application : **Mises à jour → Télécharger → Redémarrer et mettre à jour**.
 
-La version 3.2.0 ajoute le classement communautaire des coffres : rejoins avec ton pseudo, retrouve le podium et ta place, puis partage automatiquement tes nouveaux totaux de replays. Les coffres cassés restent inclus une seule fois dans le total.
+La version 3.3.0 simplifie le menu : Accueil et quatre rubriques dépliables, un seul groupe ouvert à la fois et des noms lisibles même en petite fenêtre. L’apparence précédente est conservée. Le classement communautaire des coffres, les statistiques, les rappels et la carte restent à portée de main. Les coffres cassés restent inclus une seule fois dans le total.
 
 ## Ton univers Fortnite
 
