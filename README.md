@@ -1,6 +1,6 @@
 # RezaxFinder
 
-Ton compagnon Fortnite pour Windows, version **3.4.4**, **créé par rezaxuhq**.
+Ton compagnon Fortnite pour Windows, version **3.5.1**, **créé par rezaxuhq**.
 
 ![RezaxFinder](rezaxfinder-icon.png)
 
@@ -14,6 +14,8 @@ La version **3.4.2** corrige la carte masquée par les couleurs des thèmes. Tes
 
 La version **3.4.4** ajoute un **tutoriel vidéo intégré** pour apprendre à choisir son écran, calibrer la mini-carte et suivre les coffres. Retrouve-le sur l’accueil, près du calibrage de la carte ou dans **En partie → Tutoriel vidéo**. La démonstration est disponible hors ligne, avec des explications à l’écran et des chapitres.
 
+La version **3.5.1** affiche les plages complètes des Treasure Hours et leurs horaires locaux dans les régions de matchmaking. Les sessions ont lieu au même instant mondial : changer de région ne crée pas un autre créneau. Les prochaines dates sont ajoutées lorsqu’Epic les confirme.
+
 
 ## Ton univers Fortnite
 
@@ -24,7 +26,7 @@ La version **3.4.4** ajoute un **tutoriel vidéo intégré** pour apprendre à c
 - **Collection** : nouveautés et catalogue des cosmétiques, musiques, instruments, voitures et créations LEGO.
 - **Explorer** : modes de jeu, bannières, couleurs, carte actuelle, codes créateurs et données publiques avancées.
 - **Ctrl+K** : recherche rapide dans les pages de l’application.
-- **Treasure Hours** : horaires locaux des créneaux confirmés par Epic, annonce officielle et rappel au début ou 5, 15, 30 ou 60 minutes avant. RezaxFinder doit rester ouvert, même réduit ; les notifications Windows dépendent des réglages du système.
+- **Treasure Hours** : horaires locaux par région, annonce officielle et rappel au début ou 5, 15, 30 ou 60 minutes avant. Les sessions sont mondiales ; le choix de région de matchmaking ne décale pas l’événement. RezaxFinder doit rester ouvert, même réduit ; les notifications Windows dépendent des réglages du système.
 - **Historique** : anciennes versions, nouveautés et corrections, avec sélection d’une version et copie disponible hors connexion.
 - **Classement** : participation facultative depuis le choix du pseudo ou le menu Classement, top 100 et position personnelle. Le pseudo, la plateforme, le total de coffres et le nombre de parties comptées deviennent publics. Les fichiers de replay restent sur ton PC. Quitter retire le profil public ; hors ligne, le partage s’arrête immédiatement et le retrait est réessayé au retour de la connexion.
 
